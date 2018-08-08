@@ -2,10 +2,10 @@
 <script>
   if (window.location.search.includes("error=")) {
     window.localStorage.setItem("error", window.location.search.slice(8, window.location.search.length));
-    window.location = "/"
+    window.location = "/";
   };
   if (window.location.search.includes("code=")) {
     window.localStorage.setItem("code", window.location.search.slice(7, window.location.search.length));
-    window.location = "/dashboard"
-  }
+    window.location = "/dashboard";
+  };
 </script>
