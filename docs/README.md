@@ -1,4 +1,4 @@
-# Home
+# <img src="/assets/png/logo.png"> Home
 ## Commands
 ### General Commands
 <table>
