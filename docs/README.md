@@ -1,4 +1,4 @@
-# EnergyBot - A Multipurpose Discord Bot
+# Home
 ## Commands
 ### General Commands
 <table>
