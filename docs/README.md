@@ -37,3 +37,22 @@
 <td>None</td>
 </tr>
 </table>
+
+### Moderation Commands
+<table>
+<tr>
+<th>Command</th>
+<th>Description</th>
+<th>Permission Required</th>
+</tr>
+<tr>
+<td>!ban &ltmember&gt [reason]</td>
+<td>Bans a member with an optional reason</td>
+<td>None</td>
+</tr>
+<tr>
+<td>!kick &ltmember&gt [reason]</td>
+<td>Kicks a member with an optional reason</td>
+<td>None</td>
+</tr>
+</table>
