@@ -1,4 +1,4 @@
-# <img src="assets/png/logo.png" width="100", height="100"> Home
+# <img src="assets/png/logo.png" length="100", height="100"> Home
 ## Commands
 ### General Commands
 <table>
