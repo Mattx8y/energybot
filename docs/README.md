@@ -46,13 +46,13 @@
 <th>Permission Required</th>
 </tr>
 <tr>
-<td>!ban &ltmember&gt [reason]</td>
+<td><code>!ban &ltmember&gt [reason]</code></td>
 <td>Bans a member with an optional reason</td>
-<td>None</td>
+<td><code>Ban Members</code></td>
 </tr>
 <tr>
-<td>!kick &ltmember&gt [reason]</td>
+<td><code>!kick &ltmember&gt [reason]</code></td>
 <td>Kicks a member with an optional reason</td>
-<td>None</td>
+<td><code>Kick Members</code></td>
 </tr>
 </table>
