@@ -27,12 +27,12 @@
 <th>Permission Required</th>
 </tr>
 <tr>
-<td><code>!announce &ltmessage&gt</code></td>
+<td><code>!announce &lt;message&gt;</code></td>
 <td>Announces a message to the <code>#announcements</code> channel</td>
 <td><code>Send Messages</code> in <code>#announcements</code></td>
 </tr>
 <tr>
-<td><code>!embed &ltmessage&gt</code></td>
+<td><code>!embed &lt;message&gt;</code></td>
 <td>Embeds a message in the current channel</td>
 <td>None</td>
 </tr>
@@ -46,12 +46,12 @@
 <th>Permission Required</th>
 </tr>
 <tr>
-<td><code>!ban &ltmember&gt [reason]</code></td>
+<td><code>!ban &lt;member&gt; [reason]</code></td>
 <td>Bans a member with an optional reason</td>
 <td><code>Ban Members</code></td>
 </tr>
 <tr>
-<td><code>!kick &ltmember&gt [reason]</code></td>
+<td><code>!kick &lt;member&gt; [reason]</code></td>
 <td>Kicks a member with an optional reason</td>
 <td><code>Kick Members</code></td>
 </tr>
