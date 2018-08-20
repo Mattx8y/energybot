@@ -2,7 +2,7 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 # <img src="assets/png/logo.png"> Home
-###### [Add the bot](/addbot) | [Join the support server](https://discord.gg/mnNjC9k)
+###### [Add the bot](addbot) | [Join the support server](https://discord.gg/mnNjC9k)
 ## Commands
 ### General Commands
 <table>
