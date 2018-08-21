@@ -2,7 +2,7 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 # <img src="assets/png/logo.png"> Home
-###### <a onClick="window.open('https://www.energybot.ml/addbot', 'Add the bot', 'width=500,height=600')" href="thnaks">Add the bot</a> | [Join the support server](https://discord.gg/mnNjC9k)
+###### <a onClick="window.open('https://www.energybot.ml/addbot', 'Add the bot', 'width=500,height=600')" href="thanks">Add the bot</a> | [Join the support server](https://discord.gg/mnNjC9k)
 ## Commands
 ### General Commands
 <table>
