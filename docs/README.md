@@ -55,7 +55,7 @@
     <td><code>Ban Members</code></td>
   </tr>
   <tr>
-    <td><code>!unban &lt;user ID&gt; [reason]</code></td>
+    <td><code>!unban &lt;user&gt; [reason]</code></td>
     <td>Unbans a user with an optional reason</td>
     <td><code>Ban Members</code></td>
   </tr>
