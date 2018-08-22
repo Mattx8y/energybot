@@ -33,7 +33,7 @@
   <tr>
     <td><code>!announce &lt;message&gt;</code></td>
     <td>Announces a message to the <code>#announcements</code> channel. If an <code>#announcements</code> channel doesn't exist, it creates a new one.</td>
-    <td><code>Send Messages</code> in <code>#announcements</code> or <code>Manage Channels</code> if an <code>#announcements</code< channel doesn't exist.</td>
+    <td><code>Send Messages</code> in <code>#announcements</code> or <code>Manage Channels</code> if an <code>#announcements</code> channel doesn't exist.</td>
   </tr>
   <tr>
     <td><code>!embed &lt;message&gt;</code></td>
