@@ -31,10 +31,16 @@
       <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
       
     <form action="" method="get">
-      <label for="username">Username</label>
-      <input id="username" type="text" name="username"><br><br>
-      <label for="password">Password</label>
-      <input id="password" type="password" name="password"><br><br>
+      <table>
+        <tr>
+          <td><label for="username">Username:</label></td>
+          <td><label for="password">Password:</label></td>
+        </tr>
+        <tr>
+          <td><input id="username" type="text" name="username"></td>
+          <td><input id="password" type="password" name="password"></td>
+        </tr>
+      </table>
       <div class="g-recaptcha" data-sitekey="6Lf3UGsUAAAAAOCalcex6g6OiWTovQTI1duxOn-y"></div>
       <p style="color: #FF0000" id="error"></p>
       <input type="submit" value="Submit">
